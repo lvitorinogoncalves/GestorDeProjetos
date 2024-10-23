@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.projectManager</groupId>
-	<artifactId>projectManager</artifactId>
+	<artifactId>GestorDeProjetos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>projectManager</name>
 	<description>Project manager</description>
