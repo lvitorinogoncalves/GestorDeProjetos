@@ -1,6 +1,6 @@
-package com.gestorDePorjetos.repository;
+package com.gestorDeProjetos.repository;
 
-import com.gestorDePorjetos.model.Projeto;
+import com.gestorDeProjetos.model.Projeto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
