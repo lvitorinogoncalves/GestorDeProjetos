@@ -1,4 +1,4 @@
-package com.gestorDePorjetos.dto;
+package com.gestorDeProjetos.dto;
 
 import lombok.Getter;
 import lombok.Setter;
